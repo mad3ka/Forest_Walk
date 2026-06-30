@@ -1,0 +1,15 @@
+{
+  "language": "en",
+  "sensitivity": 1.0,
+  "invert_y": false,
+  "keys": {
+    "forward": "w",
+    "back": "s",
+    "left": "a",
+    "right": "d",
+    "run": "left shift",
+    "jump": "space",
+    "interact": "e",
+    "camera": "v"
+  }
+}
